@@ -2,7 +2,7 @@
 
 **An AI agent that decides for itself which tools to call, in what order, until it can answer your question. No agent framework, just a short loop you can read end to end.**
 
-**[▶ Try the live demo](https://agent-demo.streamlit.app)** &nbsp;·&nbsp; ![tests](https://github.com/rverma213/agent-demo/actions/workflows/tests.yml/badge.svg)
+**[▶ Try the live demo](https://agent-demo-ravi-verma.streamlit.app/)** &nbsp;·&nbsp; ![tests](https://github.com/rverma213/agent-demo/actions/workflows/tests.yml/badge.svg)
 
 <!-- TODO: record a short GIF of the app (e.g. with ScreenToGif or Kap), save it as docs/demo.gif, then uncomment:
 ![Demo](docs/demo.gif)
