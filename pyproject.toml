@@ -1,0 +1,16 @@
+[project]
+name = "agent-demo"
+version = "1.0.0"
+description = "A tool-using AI agent built from scratch in Python, with a Streamlit UI."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
